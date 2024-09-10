@@ -1,0 +1,5 @@
+[11-Jun-2022 18:23:50 America/New_York] PHP Warning:  Use of undefined constant header - assumed 'header' (this will throw an Error in a future version of PHP) in /home/fastxybh/coinexmoon.com/indexe47e.php on line 2
+[11-Jun-2022 18:23:50 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/fastxybh/coinexmoon.com/indexe47e.php on line 2
+[11-Jun-2022 18:23:50 America/New_York] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/fastxybh/coinexmoon.com/indexe47e.php on line 2
+[11-Jun-2022 18:23:50 America/New_York] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/fastxybh/coinexmoon.com/indexe47e.php on line 2
+[11-Jun-2022 18:23:50 America/New_York] PHP Warning:  include(): Failed opening 'headerphp' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/fastxybh/coinexmoon.com/indexe47e.php on line 2
